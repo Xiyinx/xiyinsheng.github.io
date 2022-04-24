@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 盛希音</title>
-    <link>https://xiyinx.github.io/xiyinsheng.github.io/categories/</link>
+    <link>https://xiyin.github.io/categories/</link>
     <description>Recent content in Categories on 盛希音</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language><atom:link href="https://xiyinx.github.io/xiyinsheng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language><atom:link href="https://xiyin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
